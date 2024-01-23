@@ -52,3 +52,5 @@
 
 
 * Machine learning is a continuous cycle. After deploying a model, you monitor the inferences, collect more high-quality data, and evaluate the model to identify drift. You then increase the accuracy of your inferences by updating your training data to include the newly collected high-quality data. As more example data becomes available, you continue retraining your model to increase accuracy.
+
+[sample project](https://aws.amazon.com/tutorials/machine-learning-tutorial-deploy-model-to-real-time-inference-endpoint/)
